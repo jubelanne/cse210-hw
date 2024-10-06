@@ -15,4 +15,5 @@ class Program
         Console.Write(message);
         return Console.ReadLine();
     }
-}
+
+}"?"
